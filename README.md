@@ -1,22 +1,23 @@
-# OurFirstApi
+<img align="center" src="assets/images/bs_github_readme_banner.png"/>
 
-**TODO: Add description**
+# Our First API SOLUTIONS
+Subscribe to [Backend Stuff](https://www.youtube.com/channel/UChbS_z6KHQiIu9et38O37eQ) if you're interested in learning how to build scalable, production ready APIs in Elixir and some DevOps along the way, please subscribe to my channel Backend Stuff, and start your backend development journey.
 
-## Installation
+You will find the solutions for [Our First API](https://www.youtube.com/playlist?list=PL2Rv8vpZJz4xqTf95A7u9eHC4OcQPGlOv) here.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `our_first_api` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:our_first_api, "~> 0.1.0"}
-  ]
-end
+#### INSTALL DEPENDENCIES
+```
+mix deps.get
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/our_first_api>.
+## SUPPORT BACKEND STUFF
 
-# elixir_our_first_api
+🎙🎙 Check out my podcast [Big App Energy](https://www.hiredgunapps.com/podcast)
+
+🆘🆘 NEED HELP?? Join the [Discord Server](https://discord.gg/HcnjPsWATg)
+
+## FOLLOW ME
+Instagram: [@jacob_luetzow](https://www.instagram.com/jacob_luetzow/)
+
+Join the [Discord server](https://discord.gg/HcnjPsWATg)
+
